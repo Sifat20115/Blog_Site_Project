@@ -1,4 +1,4 @@
-# Blog_Site_Project
+# Blog_Site_Project || Live link : https://sifatbs.pythonanywhere.com/
 1.People can create an account.
 2.People can login their account.
 3.People can create a blog,Delete their blog,Update their blog,Read their blog.
