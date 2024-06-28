@@ -1,10 +1,9 @@
 # Blog_Site_Project || Live link : https://sifatbs.pythonanywhere.com/
-<b>You can Register Or,<br><h3>Try_This_Free_Account : Username : XYZ | Password : xyzaccount12/</h3>
-
+<b>
 – People can open their own account and they can share their feelings through a photo, also they can
 add favorites to other blogs. Besides, one can rate each other's blog. And all blogs will be sorted by
-rating.
-
+rating.<br>
+You can Register Or,<br><h3>Try_This_Free_Account : Username : XYZ | Password : xyzaccount12/</h3>
 Features : 
 
 1.People can create an account.
