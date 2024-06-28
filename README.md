@@ -1,5 +1,5 @@
 # Blog_Site_Project || Live link : https://sifatbs.pythonanywhere.com/
-#<b>Try_This_Free_Account : Username : XYZ | Password : xyzaccount12/<b>
+#<b><h3>Try_This_Free_Account : Username : XYZ | Password : xyzaccount12/</h3>
 
 – People can open their own account and they can share their feelings through a photo, also they can
 add favorites to other blogs. Besides, one can rate each other's blog. And all blogs will be sorted by
@@ -18,3 +18,5 @@ Features :
 5.People can add to favorite any blog.
 
 6.Filtering specific type of blog.
+
+</b>
